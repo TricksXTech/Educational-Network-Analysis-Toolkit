@@ -21,3 +21,8 @@ Install dependencies:
 
 ```bash
 pip install scapy
+```
+
+Run Script
+```bash
+python network_toolkit.py
